@@ -29,4 +29,4 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./
-          server-dir: /home/ixvrqezi/test.xcloud.web.id
+          server-dir: /home/ixvrqezi/test.xcloud.web.id/
