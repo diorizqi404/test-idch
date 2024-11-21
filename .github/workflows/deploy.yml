@@ -28,5 +28,7 @@ jobs:
           server: ${{ secrets.HOST_DNS }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftp
+          port: 21
           local-dir: ./
           server-dir: /home/ixvrqezi/test.xcloud.web.id/
