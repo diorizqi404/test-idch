@@ -31,3 +31,5 @@ jobs:
           protocol: ftp
           port: 21
           server-dir: /test.xcloud.web.id/
+          dangerous-clean-slate: false # Ini akan mencegah penghapusan file yang sudah ada
+          exclude-git-history: true
