@@ -31,4 +31,4 @@ jobs:
           protocol: ftp
           port: 21
           local-dir: ./
-          server-dir: /home/ixvrqezi/test.xcloud.web.id/
+          server-dir: /test.xcloud.web.id/
